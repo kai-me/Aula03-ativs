@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+	<cliente>
+		<nome>João</nome>
+        <idade>18</idade>
+		<numeroticket>12345</numeroticket>
+		<origem>pernenbuco</origem>
+        <destino>paraiba</destino>
+	</cliente>
+	<cliente>
+		<nome>maria</nome>
+        <idade>12</idade>
+		<numeroticket>45673</numeroticket>
+		<origem>paraiba</origem>
+        <destino>paraiba</destino>
+	</cliente>
+    <cliente>
+		<nome>lucas</nome>
+        <idade>23</idade>
+		<numeroticket>87653</numeroticket>
+		<origem>Maramgabie</origem>
+        <destino>paraiba</destino>
+	</cliente>
+    <cliente>
+		<nome>larry</nome>
+        <idade>98</idade>
+		<numeroticket>76436</numeroticket>
+		<origem>Mangabeira</origem>
+        <destino>paraiba</destino>
+	</cliente>
+    <cliente>
+		<nome>white</nome>
+        <idade>58</idade>
+		<numeroticket>98456</numeroticket>
+		<origem>POrtoseguro</origem>
+        <destino>paraiba</destino>
+	</cliente>
+
+</clientes>
